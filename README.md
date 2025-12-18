@@ -59,7 +59,7 @@ Sistema web para la administración de alumnos e instituciones educativas.
 ---
 
 ## Contacto
-- 💼 LinkedIn: https://www.linkedin.com/in/carlos-asparrin
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-asparrin-martin/
 - 💻 GitHub: https://github.com/SujetoDelta-XXI
 
 ---
