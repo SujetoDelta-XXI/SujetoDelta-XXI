@@ -1,67 +1,103 @@
 # Carlos Alfonso Asparrin Martin
 
 🎓 Estudiante de Diseño y Desarrollo de Software (TECSUP)  
-☁️ Enfocado en soluciones en la nube y desarrollo de aplicaciones móviles  
+☁️ Interés en Cloud Computing y desarrollo de aplicaciones móviles  
 📍 Lima, Perú
 
 ---
 
-## Perfil
-Estudiante de 5.º ciclo de Diseño y Desarrollo de Software en TECSUP, con experiencia académica en el desarrollo de aplicaciones web y móviles. Interesado en el diseño de soluciones escalables en la nube, buenas prácticas de desarrollo y arquitectura de software. Me caracterizo por el aprendizaje continuo, la adaptabilidad y la orientación a resultados.
+## Perfil Profesional
+Estudiante de 5.º ciclo de Diseño y Desarrollo de Software en TECSUP, con experiencia académica en el desarrollo de aplicaciones web y móviles. Orientado a la creación de soluciones tecnológicas eficientes e innovadoras, aplicando buenas prácticas de desarrollo y principios de arquitectura de software.
+
+Cuento con conocimientos en desarrollo backend, diseño y consumo de APIs REST, modelado de bases de datos relacionales y NoSQL, e integración de aplicaciones con servicios en la nube. Me encuentro en constante aprendizaje en cloud computing, desarrollo móvil y arquitectura de software, trabajando bajo metodologías ágiles (SCRUM).
 
 ---
 
 ## Tecnologías y Herramientas
 
-**Lenguajes**
-- Java
-- JavaScript / TypeScript
-- SQL
+### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-**Backend**
-- Spring Boot
-- REST APIs
-- JWT Authentication
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black)
 
-**Frontend**
-- React
-- Vite
-- HTML5 / CSS3
+### Frontend Web
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Bases de Datos**
-- MongoDB
-- MySQL
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Cloud & DevOps**
-- AWS (EC2, S3, RDS – en formación)
-- Git / GitHub
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### Cloud & Metodologías
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-Agile-blue)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## Proyectos Destacados
+## Proyectos Académicos Destacados
 
-### 📱 HistoriAR
-Aplicación educativa que integra contenidos históricos con recursos digitales interactivos.  
-**Stack:** Spring Boot · MongoDB · React · Cloud Storage
+### 📱 HistoriAR (2025)
+Aplicación móvil educativa orientada a la difusión del patrimonio histórico del Perú. Permite explorar monumentos históricos mediante fichas informativas, contenido multimedia y modelos 3D, integrando funcionalidades de Realidad Aumentada (AR).
 
-### 🧾 Sistema de Gestión Académica
-Sistema web para la administración de alumnos e instituciones educativas.  
-**Stack:** Spring Boot · MySQL · REST API
+**Tecnologías:**  
+Flutter · Dart · Spring Boot · MongoDB · AWS · AR
+
+---
+
+### 🎮 Gametex (2024)
+Aplicación web que permite a los usuarios participar en torneos de videojuegos y adquirir claves digitales.
+
+**Tecnologías:**  
+React · JavaScript · APIs REST · MySQL
+
+---
+
+### 📦 FoodTrack (2024)
+Sistema web para la gestión y supervisión de entrada y salida de productos en un almacén de alimentos.
+
+**Tecnologías:**  
+JavaScript · MySQL · Estructuras de Datos
+
+---
+
+## Formación y Certificaciones
+- AWS Academy Cloud Architecting – AWS Academy (2025)
+- Fundamentos de SCRUM – SCRUM Study (2025)
+- Fundamentos de Blockchain – CTIC UNI (2025)
+- Nivel intermedio de inglés – Conversa TECSUP (en curso)
+- JavaScript básico – Cisco Networking Academy (2024)
 
 ---
 
 ## Intereses Profesionales
-- Desarrollo de aplicaciones móviles
-- Arquitectura backend
+- Desarrollo backend
 - Cloud Computing
-- Soluciones escalables y seguras
+- Desarrollo de aplicaciones móviles
+- Arquitectura de software
+- Tecnologías emergentes
 
 ---
 
 ## Contacto
-- 💼 LinkedIn: https://www.linkedin.com/in/carlos-asparrin-martin/
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-asparrin
 - 💻 GitHub: https://github.com/SujetoDelta-XXI
+- 📧 Email: asparrincarlos715@gmail.com
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujetoDelta-XXI&show_icons=true&hide_title=true)
+
