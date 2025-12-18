@@ -93,7 +93,7 @@ JavaScript · MySQL · Estructuras de Datos
 ---
 
 ## Contacto
-- 💼 LinkedIn: https://www.linkedin.com/in/carlos-asparrin
+- 💼 LinkedIn: www.linkedin.com/in/carlos-asparrin-martin
 - 💻 GitHub: https://github.com/SujetoDelta-XXI
 - 📧 Email: asparrincarlos715@gmail.com
 
