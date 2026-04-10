@@ -7,7 +7,7 @@
 ---
 
 ## Perfil Profesional
-Estudiante de 5.º ciclo de Diseño y Desarrollo de Software en TECSUP, con experiencia académica en el desarrollo de aplicaciones web y móviles. Orientado a la creación de soluciones tecnológicas eficientes e innovadoras, aplicando buenas prácticas de desarrollo y principios de arquitectura de software.
+Estudiante de 6.º ciclo de Diseño y Desarrollo de Software en TECSUP, con experiencia académica en el desarrollo de aplicaciones web y móviles. Orientado a la creación de soluciones tecnológicas eficientes e innovadoras, aplicando buenas prácticas de desarrollo y principios de arquitectura de software.
 
 Cuento con conocimientos en desarrollo backend, diseño y consumo de APIs REST, modelado de bases de datos relacionales y NoSQL, e integración de aplicaciones con servicios en la nube. Me encuentro en constante aprendizaje en cloud computing, desarrollo móvil y arquitectura de software, trabajando bajo metodologías ágiles (SCRUM).
 
