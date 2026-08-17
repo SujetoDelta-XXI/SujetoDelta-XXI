@@ -68,14 +68,6 @@ Actualmente continúo fortaleciendo mis conocimientos en **AWS**, desarrollo de 
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAsparrinM\&show_icons=true\&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAsparrinM\&layout=compact)
-
----
-
 ## 📫 Contacto
 
 🌐 **[Portafolio](https://carlos-asparrin.vercel.app/)**
